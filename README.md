@@ -1,5 +1,8 @@
 # kag101
-members: ks, jsy, lyk
+**members:** 
+  **ks
+  jsy
+  lyk**
 
 # 项目结构
 ## Algorithms
