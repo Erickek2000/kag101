@@ -4,6 +4,7 @@ Kaisa: This is a test.
 
 This is a test2
 
+<<<<<<< HEAD
 liuyike test contradiction
 
 aaaaaaaaaaaaaaaaaaaaaaaaa
@@ -11,3 +12,8 @@ aaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbb
 
 ccccccccccccccccccccccccccccccc
+=======
+KKKKKKKKKKKKKKKKKKKKKK
+
+Test push something when local repo don't update.
+>>>>>>> 431d0e549f49b46eba8571312c2cd5ae75636bf6
